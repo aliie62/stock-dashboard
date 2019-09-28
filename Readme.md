@@ -22,5 +22,8 @@ Contributions are what make the open source community such an amazing place to b
 # License
 Distributed under the MIT License. See `LICENSE` for more information.
 
+# Disclaimer
+Nasdaq api of pandas-datareader has been used to get the data. This api is working at the time of development. However, they can stop this api at any time without any notice.
+
 # Contact
 Ali Hosseini on https://twitter.com/a1iie62 or aliie62@yahoo.com
