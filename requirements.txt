@@ -3,3 +3,4 @@ pandas-datareader
 Dash-Code-Components
 Dash-html-Components
 requests
+uwsgi
