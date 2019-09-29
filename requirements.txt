@@ -1,6 +1,7 @@
-Dash
+plotly
+dash
 pandas-datareader
-Dash-Code-Components
-Dash-html-Components
+dash-code-components
+cash-html-components
 requests
-uwsgi
+gunicorn
