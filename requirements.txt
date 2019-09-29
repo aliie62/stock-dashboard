@@ -2,6 +2,6 @@ plotly
 dash
 pandas-datareader
 dash-core-components
-cash-html-components
+dash-html-components
 requests
 gunicorn
